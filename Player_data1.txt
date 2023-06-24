@@ -1,0 +1,6 @@
+﻿Romuvos mokykla
+Romas Romaitis; 29; 1.96;
+Arnoldas Kairys; 27; 1.94;
+Gedas Gedaitis; 26; 1.88;
+Justas Justinaitis; 28; 2.05;
+Domas Janušonis; 19; 1.94;

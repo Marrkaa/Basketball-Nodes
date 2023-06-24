@@ -1,0 +1,48 @@
+
+ Romuvos mokykla
+--------------------------------------
+ Nr. Pavardė ir vardas   Amžius  Ūgis 
+--------------------------------------
+  1 Romas Romaitis         29    1.96
+  2 Arnoldas Kairys        27    1.94
+  3 Gedas Gedaitis         26    1.88
+  4 Justas Justinaitis     28    2.05
+  5 Domas Janušonis        19    1.94
+--------------------------------------
+
+ Vaižganto mokykla
+--------------------------------------
+ Nr. Pavardė ir vardas   Amžius  Ūgis 
+--------------------------------------
+  1 Antanas Antanaitis     19    1.96
+  2 Kestas Kestaitis       30    2.07
+  3 Petras Petraitis       21    1.69
+  4 Jonas Jonaitis         24    2.00
+--------------------------------------
+Romuvos mokykla žaidėjų vidutinis amžius ir ūgis:
+26 metai, 1.95 metrai
+Vaižganto mokykla žaidėjų vidutinis amžius ir ūgis:
+24 metai, 1.93 metrai
+
+ Naujai suformuotas žaidėjų sąrašas
+--------------------------------------
+ Nr. Pavardė ir vardas   Amžius  Ūgis 
+--------------------------------------
+  1 Romas Romaitis         29    1.96
+  2 Justas Justinaitis     28    2.05
+  3 Antanas Antanaitis     19    1.96
+  4 Kestas Kestaitis       30    2.07
+  5 Jonas Jonaitis         24    2.00
+--------------------------------------
+
+ Surikiuotas žaidėjų sąrašas
+--------------------------------------
+ Nr. Pavardė ir vardas   Amžius  Ūgis 
+--------------------------------------
+  1 Antanas Antanaitis     19    1.96
+  2 Jonas Jonaitis         24    2.00
+  3 Justas Justinaitis     28    2.05
+  4 Romas Romaitis         29    1.96
+  5 Kestas Kestaitis       30    2.07
+--------------------------------------
+Nėra duomenų!
